@@ -1,0 +1,25 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1180px;
+    height: 72px;
+    margin: 0 auto;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+nav button{
+    background-color: #D01C28;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.36px;
+text-align: left;
+color: #ffff;
+border-radius: 10px;
+border-style: none;
+
+}

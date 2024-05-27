@@ -1,0 +1,57 @@
+.hero-container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    height: 70vh;
+   
+   
+}
+.hero-container h1{
+    font-size: 50px;
+    font-weight: 800;
+    text-align: left;
+    
+}
+.hero-container p{
+    color:  #5A5959;
+    font-weight: 600;
+}
+ .hero-btn{
+   display: flex;
+   font-size: 15px;
+    gap: 40px;
+    
+}
+.hero-btn button{
+    padding: 10px;
+    font-size: 16px;
+    
+}
+.ShopNow-btn{
+    background-color: #D01C28;
+    border-style: none;
+   
+   
+}
+.shopping p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.brand-icon{
+    display: flex;
+    width:  (131px)px;
+    height:  (67px)px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+.hero-img{
+    width: 500px;
+    height: 487.06px;
+    gap: 0px;
+   
+
+
+}
